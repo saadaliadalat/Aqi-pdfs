@@ -1,0 +1,121 @@
+2025-09-23 01:28:27,509 - INFO - start_scheduler:605 - Starting PDF scraper scheduler - runs every 1 hours
+2025-09-23 01:28:27,510 - INFO - start_scheduler:614 - Running initial job...
+2025-09-23 01:28:27,511 - INFO - run_scheduled_job:544 - Starting scheduled PDF scraping job...
+2025-09-23 01:28:27,512 - INFO - run_scraping_session:452 - Found 16 existing records in CSV
+2025-09-23 01:28:31,397 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_03.09.2025.pdf for 09/03/2025
+2025-09-23 01:28:31,398 - INFO - process_date:422 - Processed 09/03/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:32,451 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_04.09.2025.pdf for 09/04/2025
+2025-09-23 01:28:32,452 - INFO - process_date:422 - Processed 09/04/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:33,084 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_05.09.2025.pdf for 09/05/2025
+2025-09-23 01:28:33,085 - INFO - process_date:422 - Processed 09/05/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:33,623 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_06.09.2025.pdf for 09/06/2025
+2025-09-23 01:28:33,623 - INFO - process_date:422 - Processed 09/06/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:34,274 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_07.09.2025.pdf for 09/07/2025
+2025-09-23 01:28:34,275 - INFO - process_date:422 - Processed 09/07/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:34,879 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_08.09.2025.pdf for 09/08/2025
+2025-09-23 01:28:34,879 - INFO - process_date:422 - Processed 09/08/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:35,771 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_09.09.2025.pdf for 09/09/2025
+2025-09-23 01:28:35,772 - INFO - process_date:422 - Processed 09/09/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:36,387 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_10.09.2025.pdf for 09/10/2025
+2025-09-23 01:28:36,387 - INFO - process_date:422 - Processed 09/10/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:36,950 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_11.09.2025_(1).pdf for 09/11/2025
+2025-09-23 01:28:36,950 - INFO - process_date:422 - Processed 09/11/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:37,697 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_12.09.2025_(1).pdf for 09/12/2025
+2025-09-23 01:28:37,697 - INFO - process_date:422 - Processed 09/12/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:38,467 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_13.09.2025_(1).pdf for 09/13/2025
+2025-09-23 01:28:38,467 - INFO - process_date:422 - Processed 09/13/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:39,299 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_14.09.2025_(2).pdf for 09/14/2025
+2025-09-23 01:28:39,299 - INFO - process_date:422 - Processed 09/14/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:39,895 - INFO - process_date:409 - Skipping existing: 15.09_0.pdf for 09/15/2025
+2025-09-23 01:28:39,896 - INFO - process_date:422 - Processed 09/15/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:40,724 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_16.09.2025.pdf for 09/16/2025
+2025-09-23 01:28:40,725 - INFO - process_date:422 - Processed 09/16/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:41,545 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_17.09.2025.pdf for 09/17/2025
+2025-09-23 01:28:41,546 - INFO - process_date:422 - Processed 09/17/2025: 0 downloaded, 0 errors
+2025-09-23 01:28:42,492 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_18.09.2025.pdf for 09/18/2025
+2025-09-23 01:28:42,493 - INFO - process_date:422 - Processed 09/18/2025: 0 downloaded, 0 errors
+2025-09-23 01:29:01,409 - INFO - process_date:399 - No PDFs found for 09/19/2025
+2025-09-23 01:29:20,415 - INFO - process_date:399 - No PDFs found for 09/20/2025
+2025-09-23 01:29:39,195 - INFO - process_date:399 - No PDFs found for 09/21/2025
+2025-09-23 01:29:58,304 - INFO - process_date:399 - No PDFs found for 09/22/2025
+2025-09-23 01:30:17,098 - INFO - process_date:399 - No PDFs found for 09/23/2025
+2025-09-23 01:30:17,854 - ERROR - run_scheduled_job:569 - Job failed with error: 'charmap' codec can't encode character '\u2705' in position 345: character maps to <undefined>
+2025-09-23 01:30:17,855 - INFO - start_scheduler:621 - Entering scheduled mode...
+2025-09-23 01:31:17,857 - INFO - run_scheduled_job:544 - Starting scheduled PDF scraping job...
+2025-09-23 01:31:17,858 - INFO - run_scraping_session:452 - Found 16 existing records in CSV
+2025-09-23 01:31:21,819 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_03.09.2025.pdf for 09/03/2025
+2025-09-23 01:31:21,819 - INFO - process_date:422 - Processed 09/03/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:22,821 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_04.09.2025.pdf for 09/04/2025
+2025-09-23 01:31:22,822 - INFO - process_date:422 - Processed 09/04/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:23,691 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_05.09.2025.pdf for 09/05/2025
+2025-09-23 01:31:23,691 - INFO - process_date:422 - Processed 09/05/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:24,416 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_06.09.2025.pdf for 09/06/2025
+2025-09-23 01:31:24,416 - INFO - process_date:422 - Processed 09/06/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:25,232 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_07.09.2025.pdf for 09/07/2025
+2025-09-23 01:31:25,232 - INFO - process_date:422 - Processed 09/07/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:26,086 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_08.09.2025.pdf for 09/08/2025
+2025-09-23 01:31:26,086 - INFO - process_date:422 - Processed 09/08/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:26,692 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_09.09.2025.pdf for 09/09/2025
+2025-09-23 01:31:26,693 - INFO - process_date:422 - Processed 09/09/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:27,612 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_10.09.2025.pdf for 09/10/2025
+2025-09-23 01:31:27,613 - INFO - process_date:422 - Processed 09/10/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:28,271 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_11.09.2025_(1).pdf for 09/11/2025
+2025-09-23 01:31:28,272 - INFO - process_date:422 - Processed 09/11/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:28,880 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_12.09.2025_(1).pdf for 09/12/2025
+2025-09-23 01:31:28,880 - INFO - process_date:422 - Processed 09/12/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:29,694 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_13.09.2025_(1).pdf for 09/13/2025
+2025-09-23 01:31:29,695 - INFO - process_date:422 - Processed 09/13/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:30,636 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_14.09.2025_(2).pdf for 09/14/2025
+2025-09-23 01:31:30,636 - INFO - process_date:422 - Processed 09/14/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:31,466 - INFO - process_date:409 - Skipping existing: 15.09_0.pdf for 09/15/2025
+2025-09-23 01:31:31,467 - INFO - process_date:422 - Processed 09/15/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:32,334 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_16.09.2025.pdf for 09/16/2025
+2025-09-23 01:31:32,335 - INFO - process_date:422 - Processed 09/16/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:32,913 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_17.09.2025.pdf for 09/17/2025
+2025-09-23 01:31:32,914 - INFO - process_date:422 - Processed 09/17/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:33,729 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_18.09.2025.pdf for 09/18/2025
+2025-09-23 01:31:33,730 - INFO - process_date:422 - Processed 09/18/2025: 0 downloaded, 0 errors
+2025-09-23 01:31:52,266 - INFO - process_date:399 - No PDFs found for 09/19/2025
+2025-09-23 01:32:11,175 - INFO - process_date:399 - No PDFs found for 09/20/2025
+2025-09-23 01:32:30,130 - INFO - process_date:399 - No PDFs found for 09/21/2025
+2025-09-23 01:32:49,115 - INFO - process_date:399 - No PDFs found for 09/22/2025
+2025-09-23 01:33:07,994 - INFO - process_date:399 - No PDFs found for 09/23/2025
+2025-09-23 01:33:08,673 - ERROR - run_scheduled_job:569 - Job failed with error: 'charmap' codec can't encode character '\u2705' in position 345: character maps to <undefined>
+2025-09-23 01:35:08,678 - INFO - run_scheduled_job:544 - Starting scheduled PDF scraping job...
+2025-09-23 01:35:08,679 - INFO - run_scraping_session:452 - Found 16 existing records in CSV
+2025-09-23 01:35:12,516 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_03.09.2025.pdf for 09/03/2025
+2025-09-23 01:35:12,517 - INFO - process_date:422 - Processed 09/03/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:13,347 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_04.09.2025.pdf for 09/04/2025
+2025-09-23 01:35:13,348 - INFO - process_date:422 - Processed 09/04/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:13,926 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_05.09.2025.pdf for 09/05/2025
+2025-09-23 01:35:13,927 - INFO - process_date:422 - Processed 09/05/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:14,563 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_06.09.2025.pdf for 09/06/2025
+2025-09-23 01:35:14,564 - INFO - process_date:422 - Processed 09/06/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:15,234 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_07.09.2025.pdf for 09/07/2025
+2025-09-23 01:35:15,234 - INFO - process_date:422 - Processed 09/07/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:16,273 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_08.09.2025.pdf for 09/08/2025
+2025-09-23 01:35:16,273 - INFO - process_date:422 - Processed 09/08/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:17,014 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_09.09.2025.pdf for 09/09/2025
+2025-09-23 01:35:17,014 - INFO - process_date:422 - Processed 09/09/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:17,861 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_10.09.2025.pdf for 09/10/2025
+2025-09-23 01:35:17,862 - INFO - process_date:422 - Processed 09/10/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:18,639 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_11.09.2025_(1).pdf for 09/11/2025
+2025-09-23 01:35:18,640 - INFO - process_date:422 - Processed 09/11/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:19,295 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_12.09.2025_(1).pdf for 09/12/2025
+2025-09-23 01:35:19,295 - INFO - process_date:422 - Processed 09/12/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:19,963 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_13.09.2025_(1).pdf for 09/13/2025
+2025-09-23 01:35:19,963 - INFO - process_date:422 - Processed 09/13/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:20,610 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_14.09.2025_(2).pdf for 09/14/2025
+2025-09-23 01:35:20,610 - INFO - process_date:422 - Processed 09/14/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:21,221 - INFO - process_date:409 - Skipping existing: 15.09_0.pdf for 09/15/2025
+2025-09-23 01:35:21,222 - INFO - process_date:422 - Processed 09/15/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:21,956 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_16.09.2025.pdf for 09/16/2025
+2025-09-23 01:35:21,957 - INFO - process_date:422 - Processed 09/16/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:22,988 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_17.09.2025.pdf for 09/17/2025
+2025-09-23 01:35:22,991 - INFO - process_date:422 - Processed 09/17/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:23,643 - INFO - process_date:409 - Skipping existing: Lahore___Punjab_AQI_Report___Ranking_18.09.2025.pdf for 09/18/2025
+2025-09-23 01:35:23,643 - INFO - process_date:422 - Processed 09/18/2025: 0 downloaded, 0 errors
+2025-09-23 01:35:42,456 - INFO - process_date:399 - No PDFs found for 09/19/2025
+2025-09-23 01:36:01,200 - INFO - process_date:399 - No PDFs found for 09/20/2025
+2025-09-23 01:36:20,033 - INFO - process_date:399 - No PDFs found for 09/21/2025
+2025-09-23 01:36:32,209 - INFO - start_scheduler:627 - Scheduler stopped by user
