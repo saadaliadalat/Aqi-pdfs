@@ -1,0 +1,19 @@
+# Ignore Python scripts
+*.py
+
+# Ignore logs
+*.log
+
+# Ignore temporary/system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Ignore summary/debug files
+summary.txt
+
+# Allow PDFs and CSV to be pushed
+!*.pdf
+!*.csv
