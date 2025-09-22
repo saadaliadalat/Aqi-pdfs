@@ -1,1 +1,0 @@
-SCRAPER ERROR at 2025-09-23 01:33:08.674270: 'charmap' codec can't encode character '\u2705' in position 345: character maps to <undefined>
