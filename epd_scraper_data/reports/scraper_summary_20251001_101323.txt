@@ -1,0 +1,29 @@
+================================================================================
+EPD PDF Scraper Session Summary - 2025-10-01 10:13:23
+================================================================================
+
+Session Configuration:
+  • Date Range: Last 21 days
+  • Target URL: https://epd.punjab.gov.pk/aqi
+  • Download Folder: /home/runner/work/Aqi-pdfs/Aqi-pdfs/epd_scraper_data/pdfs
+  • Max Concurrent Downloads: 6
+
+Session Results:
+  • New PDFs Downloaded: 0
+  • Duplicates Skipped: 0
+  • Errors Encountered: 21
+  • Dates Processed: 21
+  • Total Processing Time: 0.00 seconds
+
+File Operations:
+  • Total Files in Database: 0
+  • Successful Downloads: 0
+  • Failed Downloads: 0
+  • PDF Validation Failures: 0
+
+GitHub Integration:
+  • Auto-commit Enabled: False
+  • Files Committed: 0
+  • Commit Status: Not attempted
+
+================================================================================
